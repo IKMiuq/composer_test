@@ -1,0 +1,20 @@
+{
+    "name": "ikmiuq/test",
+    "description": "Composer testing work",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.1",
+        "symfony/yaml": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Irina Malovastaja",
+            "email": "irina.malovastaja@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Otus\\" : "src/Otus"
+        }
+    }
+}
