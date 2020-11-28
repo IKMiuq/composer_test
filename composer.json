@@ -16,12 +16,5 @@
         "psr-4": {
             "Otus\\" : "src/Otus"
         }
-    },
-    "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/IKMiuq/composer_test"
     }
-  ],
-
 }
